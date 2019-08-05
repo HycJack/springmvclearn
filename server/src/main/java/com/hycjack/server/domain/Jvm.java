@@ -9,7 +9,7 @@ import java.lang.management.ManagementFactory;
 /**
  * JVM相关信息
  *
- * @author ruoyi
+ * @author hyc
  */
 public class Jvm {
     /**

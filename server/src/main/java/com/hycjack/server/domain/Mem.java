@@ -6,7 +6,7 @@ import com.hycjack.server.utils.Arith;
 /**
  * 內存相关信息
  *
- * @author ruoyi
+ * @author hyc
  */
 public class Mem {
     /**

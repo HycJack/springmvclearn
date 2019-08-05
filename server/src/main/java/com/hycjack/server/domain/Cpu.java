@@ -6,7 +6,7 @@ import com.hycjack.server.utils.Arith;
 /**
  * CPU相关信息
  *
- * @author ruoyi
+ * @author hyc
  */
 public class Cpu {
     /**

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 服务器监控
  *
- * @author ruoyi
+ * @author hyc
  */
 @Controller
 @RequestMapping("/monitor/server")
