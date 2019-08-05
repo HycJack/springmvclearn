@@ -21,6 +21,6 @@ public class ServerController {
         Server server = new Server();
         server.copyTo();
         mmap.put("server", server);
-        return "/server";
+        return "server";
     }
 }
